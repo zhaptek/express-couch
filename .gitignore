@@ -1,0 +1,9 @@
+/node_modules
+.env
+/public/assets
+.DS_Store
+info.log
+error.log
+logs/*
+!logs/index.js
+.xlsx
